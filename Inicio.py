@@ -1,4 +1,3 @@
-from turtle import hideturtle
 import tensorflow as tf
 import numpy as np
 
